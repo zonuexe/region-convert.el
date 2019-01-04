@@ -1,9 +1,8 @@
 (source gnu)
 (source melpa)
 
-(package "right-click-context" "0.2.0" "Right Click Context menu")
+(package "region-convert" "0.2.0" "Convert string in region by Lisp function")
 (package-file "region-convert.el")
-(package-file "right-click-context.el")
 
 (development
  (depends-on "ert")
