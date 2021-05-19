@@ -1,4 +1,4 @@
-;;; region-convert.el --- Convert string in region by Lisp function
+;;; region-convert.el --- Convert string in region by Lisp function -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2018 USAMI Kenta
 
