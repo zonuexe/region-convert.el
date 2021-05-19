@@ -46,7 +46,7 @@
 
 ;;;###autoload
 (defun region-convert (begin end callback &rest args)
-  "Convert string in region(BEGIN to END) by `CALLBACK' function call with additional arguments `ARGS'."
+  "Convert string in region(BEGIN to END) by CALLBACK function call with additional arguments ARGS."
   (interactive "r\na")
   (let ((region-string (buffer-substring-no-properties begin end))
         result)
