@@ -5,7 +5,7 @@
 ;; Author: USAMI Kenta <tadsan@zonu.me>
 ;; Created: 19 Nov 2016
 ;; Version: 0.2.0
-;; Package-Requires: ()
+;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: region convenience
 ;; Homepage: https://github.com/zonuexe/right-click-context
 ;; License: GPL-3.0-or-later
