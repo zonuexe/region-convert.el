@@ -1,10 +1,10 @@
 ;;; region-convert.el --- Convert string in region by Lisp function -*- lexical-binding: t -*-
 
-;; Copyright (C) 2018 USAMI Kenta
+;; Copyright (C) 2021 USAMI Kenta
 
 ;; Author: USAMI Kenta <tadsan@zonu.me>
 ;; Created: 19 Nov 2016
-;; Version: 0.2.0
+;; Version: 1.0.0
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: region convenience
 ;; Homepage: https://github.com/zonuexe/right-click-context
